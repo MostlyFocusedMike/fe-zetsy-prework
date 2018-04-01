@@ -103,7 +103,7 @@ header a:hover {
 	border: 5px #ccc solid;
 	margin: 1rem .5rem;
 	transition: border 1s, transform .5s;
-	width: 13rem;
+	width: 14rem;
 }
 
 #press img:hover {
